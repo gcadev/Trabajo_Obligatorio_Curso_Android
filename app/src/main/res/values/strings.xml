@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trabajo Obligatorio Curso Android</string>
+    <string name="nombre_negocio" />
+    <string name="informacion_negocio" />
+    <string name="textview">TextView</string>
+    <string name="Comprar" />
+    <string name="title_activity_maps">Map</string>
+    <string name="Mapa" />
+    <string name="mapa" />
+    <string name="comprar" />
+</resources>
